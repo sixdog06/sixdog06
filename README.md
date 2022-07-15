@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- :writing_hand: I'm writing [blog](https://punchcode.top/) to record my process of studying and life.
+- 🔭 I’m currently working as a backend software engineer.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huanruiz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
