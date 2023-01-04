@@ -3,8 +3,9 @@
 - :writing_hand: I'm writing [blog](https://punchcode.top/) to record my process of studying and life.
 - 🔭 I’m currently working as a backend software engineer.
 - 🤩 I am crazy about these things:
-  - Spring Framework(Yeah, I write Java at most times)
-  - Distributed System
+  - Java Programming
+  - System Design
+  - Computer Network
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huanruiz)](https://github.com/anuraghazra/github-readme-stats)
 
