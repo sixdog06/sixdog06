@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a backend software engineer.
 - 🤩 I am crazy about these things:
   - Java Programming
-  - Distribute System
+  - Distributed System
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huanruiz)](https://github.com/anuraghazra/github-readme-stats)
 
