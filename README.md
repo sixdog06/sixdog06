@@ -6,7 +6,7 @@
   - Java Programming
   - Distributed System
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huanruiz)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huanruiz)](https://github.com/anuraghazra/github-readme-stats) -->
 
 I am systematically learning the relevant technologies under the Java technology stack through mind mapping. Below are my experimental demos and mind maps.
 
