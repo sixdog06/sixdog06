@@ -1,5 +1,5 @@
 ### Hi, I am Harry! 👋
 
-:writing_hand: I'm writing [blog](https://github.com/huanruiz/docblog) to record my process of studying and life.
+I am systematically studying knowledge related to computer science, especially in the field of open-source software. The repositories contain various simple demos and lab exercises. I hope that one day in the future, I will have the capability to contribute to the open-source community.
 
-I am systematically learning the relevant technologies under the Java technology stack through mind mapping.
+[docblog](https://github.com/huanruiz/docblog) is my blog. I've tried various methods to set it up, but in the end, I found that simple text files with github work best for me.
